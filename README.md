@@ -1,0 +1,2 @@
+# PythonLabs
+Лабораторные работы Python. 
